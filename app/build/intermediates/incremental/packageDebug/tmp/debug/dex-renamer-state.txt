@@ -1,0 +1,4 @@
+#Fri May 10 20:47:50 IST 2019
+base.0=/home/harshitagrover/AndroidStudioProjects/Sudoku_Android-master/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
