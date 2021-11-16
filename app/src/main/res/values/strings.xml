@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sudoku1</string>
+    <string name="abt_txt">Welcome to Free Sudoku Game. The best ever Brain game for android offline!!!\nThis program comes with ABSOLUTELY NO WARRANTY. This is a free software, and you are welcome to redistribute it under certain conditions.</string>
+    <string name="objective">The objective of the game is to fill the entire game grid so that the digits from 1 to 9 appear exactly once in each region. For a standard sudoku a region is either a row, a column or one of the nine square 3x3 blocks.</string>
+    <string name="grid_styles">There is a theme button which specifies various grid styles for the game. The grid styles are basically divided into three categories, namely, ‘Basic’, ‘Classic’ and ‘Modern’. Each category has some specific styles. By clicking on the image of the style, the grid style can be changed.</string>
+    <string name="Timer">It also possess a timer that keeps  record of the time taken by the player to solve the game. There are  two buttons, one is to pause the game and other is to play the paused game.</string>
+    <string name="input_Methods">You first select a cell by tapping on it with your finger and then you use the numeric pad appears at at the bottom of the screen to enter one or more possible values for that cell. The selected cell will have the blinking cursor.
+Press the button “Erase” button present in the numeric pad to clear the values of the selected cell.
+When the player is done playing the game, he/she needs to click the “Check Answer” button to see the result of the game.
+If the player wants to continue the game after some time, he/she can do so by saving the game using “Save Game” button.</string>
+    <string name="External_links">Sudoku is an open source project. For more information on Sudoku puzzles in general see Wikipedia: Sudoku.</string>
+
+</resources>
