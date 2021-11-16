@@ -1,0 +1,4 @@
+#Tue Jan 22 16:00:36 IST 2019
+base.0=F\:\\ANDROID TEMPLATES\\Sudoku_Android-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
